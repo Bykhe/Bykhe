@@ -61,8 +61,8 @@ I am a computer science student and at the moment I am finishing learning HTML, 
 
 ## Github stats:
 
-[![](https://github-readme-stats.vercel.app/api?username=Thats-Kevn&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Bykhe)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Thats-Kevn&theme=material-palenight)](https://github.com/Bykhe)
+[![](https://github-readme-stats.vercel.app/api?username=Bykhe&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Bykhe)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Bykhe&theme=material-palenight)](https://github.com/Bykhe)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
