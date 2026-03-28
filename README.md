@@ -1,14 +1,16 @@
-<h1 align="center">Hi , I'm Kevin Parra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Kevin Bolaños Parra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img style="border-radius=50px" align="right" width=300px alt="Unicorn" src="https://media.tenor.com/iNwn_gChTCQAAAAC/this-is-fine.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer science student and at the moment I am finishing learning HTML, CSS soon I plan to finish computer science I like to learn about programming topics and I am also creative and I like to create prototypes not so advanced and I am constantly growing for my future career ;)
+I am a 17 year old technology enthusiast and an aspiring Entry level Cybersecurity Analyst and Jr. Web Developer. I am currently completing professional certificates in Google Cybersecurity and Meta Front End Development. My approach combines a creative mindset with solid foundations in HTML and CSS, while I continue to deepen my knowledge of JavaScript to develop secure software.
+
+I am passionate about the intersection of programming and cybersecurity, driven by the purpose of protecting people and organizations. I thrive in team environments and deeply value professional ethics, aiming to help companies and startups strengthen their security and privacy through secure code development.
 * **I am interested in Web designing, Mobile development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - C
   - JavaScript
+  - Python
 - 🤙🏼 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help and learn, only if the ball is in my court!😉<br>
 - Outside tech, 🎥 I love to watch sfi movies, ⚽ Play Football, 🎵 listen to music, and 🌴 explore nature outdoors.
@@ -26,7 +28,6 @@ I am a computer science student and at the moment I am finishing learning HTML, 
   </a>
   <br>
   <h5> Coming Soon </h5>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -48,13 +49,13 @@ I am a computer science student and at the moment I am finishing learning HTML, 
 
 ## Check my Social Media:
 <span>
-  <a href="https://www.instagram.com/elkxup">
+  <a href="https://www.instagram.com/kvneiz">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://www.twitch.tv/elkxup">
+  <a href="https://www.twitch.tv/elprimh">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@ElKxup">
+  <a href="https://www.youtube.com/@elprimho">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </span>
@@ -66,5 +67,5 @@ I am a computer science student and at the moment I am finishing learning HTML, 
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+    alt="" />
 </p>
