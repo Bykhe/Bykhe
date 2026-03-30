@@ -29,9 +29,15 @@ I am passionate about the intersection of programming and cybersecurity, driven 
   </a>
   <br>
   <h3> Coming Soon </h3>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <a href="https://es.wikipedia.org/wiki/Figma">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  <a href="https://es.wikipedia.org/wiki/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://es.wikipedia.org/wiki/Python">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a>
 </div>
 
 
@@ -43,7 +49,7 @@ I am passionate about the intersection of programming and cybersecurity, driven 
   <a href="https://www.notion.com/">
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   </a>
-  <a href="https://en.wikipedia.org/wiki/CSS">
+  <a href="https://es.wikipedia.org/wiki/Voice-over">
       <img src="https://img.shields.io/badge/VoiceOver-%23484848.svg?style=for-the-badge&logo=VoiceOver&logoColor=white">
   </a>
 </div>
